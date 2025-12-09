@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-help-redirect",
+  "description": "Koishi插件，当/help不带参数时，重定向到的其它指令。",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "homepage": "https://github.com/muyni233/koishi-plugin-fimtale-api",
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.18.7"
+  }
+}
